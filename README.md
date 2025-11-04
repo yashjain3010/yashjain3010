@@ -1,16 +1,16 @@
 ### Hi there, I'm Yash Jain 👋
 
-[cite_start]I'm a Software Engineer at Excollo [cite: 4, 5] building production AI systems that solve real-world problems in healthcare and finance.
+I'm a Software Engineer at Excollo building production AI systems that solve real-world problems in healthcare and finance.
 
-[cite_start]My approach: Ship fast, test thoroughly (82%+ coverage)[cite: 10], measure everything, and optimize relentlessly. [cite_start]I work across the full stack—Python/FastAPI and Node.js/TypeScript on the backend, React/Next.js on the frontend—with a focus on Clean Architecture (DDD), event-driven systems, and building systems that maintain 99.9% uptime at scale. [cite: 10, 34, 35, 36]
+My approach: Ship fast, test thoroughly (82%+ coverage), measure everything, and optimize relentlessly. I work across the full stack—Python/FastAPI and Node.js/TypeScript on the backend, React/Next.js on the frontend—with a focus on Clean Architecture (DDD), event-driven systems, and building systems that maintain 99.9% uptime at scale.
 
 ---
 
 ### 🔭 What I'm Building
 
-* [cite_start]**Healthcare AI:** A clinical workflow automation layer that **reduced physician documentation time by 70%** (12 min → 3.5 min), processing 8,000+ patient encounters with HIPAA-compliant infrastructure. [cite: 8, 9, 12]
-* [cite_start]**Financial Document Intelligence:** A multi-agent RAG pipeline that **cut analyst due diligence from 40+ hours to <5 minutes**, achieving 95%+ task accuracy on complex financial documents. [cite: 15, 16]
-* [cite_start]**Multi-Tenant SaaS:** High-performance SaaS platforms serving 100+ concurrent workspaces with **sub-200ms API latency** and enterprise-grade security. [cite: 19, 20]
+* **Healthcare AI:** A clinical workflow automation layer that **reduced physician documentation time by 70%** (12 min → 3.5 min), processing 8,000+ patient encounters with HIPAA-compliant infrastructure.
+* **Financial Document Intelligence:** A multi-agent RAG pipeline that **cut analyst due diligence from 40+ hours to <5 minutes**, achieving 95%+ task accuracy on complex financial documents.
+* **Multi-Tenant SaaS:** High-performance SaaS platforms serving 100+ concurrent workspaces with **sub-200ms API latency** and enterprise-grade security.
 
 ---
 
@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://leetcode.com/u/yjain_3010/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/LeetCode-400%2B_Problems_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode 400+ Problems"/>
   </a>
   <a href="mailto:yjain301000@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
@@ -95,20 +95,27 @@
     <td width="50%">
       <h3 align="center">AI Persona SaaS</h3>
       <p align="center">
-        Multi-tenant chat with OAuth 2.0 + RBAC; features a circuit breaker, n8n orchestration, Redis rate limiting, and 70% test coverage. [cite: 25]
-        <br/><br/>
-        <strong>Tech:</strong> React, TypeScript, Node.js, PostgreSQL, Prisma, OpenAI [cite: 23]
-        <br/><br/>
         </p>
+      <p align="center">
+        Multi-tenant chat with OAuth 2.0 + RBAC; features a circuit breaker, n8n orchestration, Redis rate limiting, and 70% test coverage.
+        <br/><br/>
+        <strong>Tech:</strong> React, TypeScript, Node.js, PostgreSQL, Prisma, OpenAI
+        <br/><br/>
+        <a href="YOUR_LIVE_DEMO_URL_HERE" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-00A6ED?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
+        <a href="YOUR_GITHUB_REPO_LINK_HERE" target="_blank"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/></a>
+      </p>
     </td>
     <td width="50%">
       <h3 align="center">Notion Clone</h3>
+      <p align="center">
+        </p>
       <p align="center">
         A real-time, collaborative note-taking application inspired by Notion, built with a modern stack.
         <br/><br/>
         <strong>Tech:</strong> React, TypeScript, Next.js, Tailwind CSS
         <br/><br/>
-        <a href="https://github.com/yashjain3010/Notion-Clone">View Repository</a>
+        <a href="YOUR_LIVE_DEMO_URL_HERE" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-00A6ED?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
+        <a href="https://github.com/yashjain3010/Notion-Clone" target="_blank"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/></a>
       </p>
     </td>
   </tr>
@@ -116,21 +123,27 @@
     <td width="50%">
       <h3 align="center">E-Commerce Website</h3>
       <p align="center">
+        </p>
+      <p align="center">
         A full-stack e-commerce platform featuring product listings, a shopping cart, and a complete checkout process.
         <br/><br/>
         <strong>Tech:</strong> React, Node.js, Express, MongoDB
         <br/><br/>
-        <a href="https://github.com/yashjain3010/E-Commerce-Website">View Repository</a>
+        <a href="YOUR_LIVE_DEMO_URL_HERE" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-00A6ED?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
+        <a href="https://github.com/yashjain3010/E-Commerce-Website" target="_blank"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/></a>
       </p>
     </td>
     <td width="50%">
       <h3 align="center">Finance App</h3>
       <p align="center">
+        </p>
+      <p align="center">
         A personal finance dashboard for tracking income, expenses, and budgets.
         <br/><br/>
         <strong>Tech:</strong> React, Node.js, TypeScript, PostgreSQL
         <br/><br/>
-        <a href="https://github.com/yashjain3010/Finance-App">View Repository</a>
+        <a href="YOUR_LIVE_DEMO_URL_HERE" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-00A6ED?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
+        <a href="https://github.com/yashjain3010/Finance-App" target="_blank"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/></a>
       </p>
     </td>
   </tr>
@@ -138,15 +151,16 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & 3D Contributions
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-gitblock.svg" alt="Yash Jain's 3D Contribution Graph" />
+</p>
 
 <p align="center">
   <a href="https://github.com/yashjain3010">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=yashjain3010&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true&count_private=true" alt="Yash Jain's GitHub Stats" />
   </a>
-</p>
-<br>
-<p align="center">
   <a href="https://github.com/yashjain3010">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashjain3010&layout=compact&theme=radical&langs_count=8" alt="Yash Jain's Top Languages" />
   </a>
